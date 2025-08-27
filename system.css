@@ -1,0 +1,98 @@
+.div2{
+    background: #2A5D5A;
+
+    width: 1440px;
+height: 1024px;
+angle: 0 deg;
+opacity: 1;
+
+}
+h1{ 
+    
+    padding-top: 30px;
+    margin-left: 350px;
+    text-align: center;
+    color: white;
+    width: 591px;
+height: 69px;
+angle: 0 deg;
+opacity: 1;
+top: 46px;
+left: 409px;
+    width: 636px;
+height: 116px;
+angle: 0 deg;
+opacity: 1;
+top: 22px;
+left: 381px;
+background: #311313;
+
+font-family: Inter;
+font-weight: 700px;
+font-style: Bold;
+font-size: 64px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: justify;
+}
+.div3{
+    width: 1000px;
+height: 638;
+angle: 0 deg;
+opacity: 1;
+top: 193px;
+left: 220px;
+border-width: 10px;
+margin-left: 200px;
+
+    width: 1000;
+angle: 0 deg;
+opacity: 1;
+top: 193px;
+left: 220px;
+border-width: 10px;
+background: #000000;
+border: 10px solid #FF0606
+}
+.div5{
+    background: #1FE8B7;
+    margin-left:60px;
+   width: 896px;
+height: 259px;
+angle: 0 deg;
+opacity: 1;
+top: 238px;
+left: 272px;
+font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: justify;
+ 
+box-shadow: 0px 4px 4px 0px #00000040;
+}
+.div4{
+    background: #1FE8B7;
+    margin-left: 60px;
+    width: 896px;
+height: 259px;
+angle: 0 deg;
+opacity: 1;
+top: 238px;
+left: 272px;
+font-family: Inter;
+font-weight: 700px;
+font-style: Bold;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: justify;
+
+box-shadow: 0px 4px 4px 0px #00000040;
+
+}
